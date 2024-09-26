@@ -33,14 +33,17 @@ There are some notable differences between the float and flex methods. You can c
 To view the website locally, follow these steps:
 
 1. Clone the repository or download the files.
-   ```
-   git clone https://github.com/BhoomiGohil/html-css-flexbox-cards.git
-   cd html-css-flexbox-cards
-   ```
+
+```
+git clone https://github.com/BhoomiGohil/Flexbox-CardsUI.git
+cd Flexbox-CardsUI
+```
+
 2. Open the `Index.html` file in your web browser.
-   ```
-   open Index.html
-   ```
+
+```
+open Index.html
+```
 
 OR
 
