@@ -27,8 +27,8 @@ To view the website locally, follow these steps:
 1. Clone the repository or download the files.
 
 ```
-git clone https://github.com/BhoomiGohil/Flexbox-CardsUI.git
-cd Flexbox-CardsUI
+git clone https://github.com/BhoomiGohil/Flexbox-Cards-Demo.git
+cd Flexbox-Cards-Demo
 ```
 
 2. Open the `Index.html` file in your web browser.
